@@ -1,0 +1,32 @@
+Arguments: 
+  /Users/ivansalimrasoel/.nvm/versions/node/v12.11.1/bin/node /Users/ivansalimrasoel/.yarn/bin/yarn.js add webpack --dev
+
+PATH: 
+  /Users/ivansalimrasoel/.yarn/bin:/Users/ivansalimrasoel/.config/yarn/global/node_modules/.bin:/Users/ivansalimrasoel/.nvm/versions/node/v12.11.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+Yarn version: 
+  1.19.1
+
+Node version: 
+  12.11.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+
+npm manifest: 
+  {
+    "name": "project",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
